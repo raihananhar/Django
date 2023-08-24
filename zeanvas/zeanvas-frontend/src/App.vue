@@ -11,6 +11,7 @@
 
 <script>
 import PostList from './components/PostList.vue';
+import PostDetail from './components/PostDetail.vue';
 
 export default {
   name: 'App',

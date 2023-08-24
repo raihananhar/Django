@@ -1,4 +1,4 @@
-# zeanvas
+# zeanvas-frontend
 
 ## Project setup
 ```
